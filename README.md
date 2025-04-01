@@ -1,4 +1,4 @@
-# Privacy Guardian Browser Extension
+# NoTrack Browser Extension
 
 A powerful privacy-focused browser extension that helps protect your online privacy by detecting and blocking trackers while warning you about insecure websites.
 
