@@ -1,0 +1,32 @@
+{
+  "manifest_version": 3,
+  "name": "Privacy Guardian",
+  "version": "1.0",
+  "description": "Protects your privacy by detecting trackers and warning about insecure websites",
+  "permissions": [
+    "webRequest",
+    "storage",
+    "activeTab",
+    "scripting"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+} 
