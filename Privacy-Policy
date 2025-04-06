@@ -1,49 +1,57 @@
-Privacy Policy for NoTrack Browser Extension
+Privacy Policy for NoTrack Extension
 
+Last Updated: 06/04/2025
 
 1. Introduction
-NoTrack is a privacy-focused browser extension designed to protect users by detecting and blocking web trackers while providing security status information about websites. We are committed to protecting your privacy and being transparent about our data practices.
+NoTrack is a privacy-focused browser extension that helps protect your privacy by detecting and blocking web trackers while monitoring website security status. We are committed to transparency and protecting your privacy.
 
-2. Information We Collect
-Our extension collects and processes the following types of data:
+2. Information Collection and Use
+Our extension processes the following types of data:
 
-a) Website Content
-- We analyze website content solely to detect tracking scripts and elements
-- This analysis is performed locally in your browser
-- No website content is stored permanently or transmitted to external servers
+a) Website URLs and Network Requests
+- We analyze website URLs and network requests to detect tracking scripts
+- This analysis happens entirely within your browser
+- No URLs or website data is stored permanently
+- All data is cleared automatically when you close browser tabs
 
-b) Location Information
-- We process IP addresses as part of our web request monitoring system
-- This information is used only for tracker detection functionality
-- IP addresses are processed locally and are not stored or transmitted
+b) Tracker Detection Data
+- We maintain a temporary list of detected trackers per tab
+- This data exists only in your browser's memory
+- Data is automatically cleared when tabs are closed
+- No tracking data is transmitted externally
 
-3. How We Use Information
-- All data processing occurs locally within your browser
-- Information is used exclusively for detecting and blocking trackers
-- Data is stored temporarily in your browser's memory
-- All collected data is automatically cleared when browser tabs are closed
+3. Data Storage
+- All processing occurs locally in your browser
+- No data is stored permanently
+- No information is sent to external servers
+- All temporary data is cleared when closing tabs
 
-4. Data Storage and Security
-- All data is processed and stored locally on your device
-- No data is transmitted to external servers
-- No personal information is collected or stored
-- Temporary data is automatically cleared when closing tabs
+4. Data Sharing
+- We do not collect, store, or share any user data
+- No information is transmitted to third parties
+- All tracker detection happens locally in your browser
 
-5. Third-Party Access
-- We do not share any data with third parties
-- We do not collect or transmit any information to external servers
-- All processing is done locally within your browser
+5. Your Privacy Rights
+- The extension operates entirely locally on your device
+- You can disable or remove the extension at any time
+- No personal data is collected or stored
+- No data persistence between browser sessions
 
-6. Your Rights and Choices
-- The extension can be disabled or removed at any time
-- No personal data is collected, stored, or transmitted
-- You maintain complete control over the extension's functionality
+6. Security
+- All operations are performed locally in your browser
+- No external servers are contacted
+- No data is transmitted over the internet
+- Your browsing data remains private and secure
 
-7. Changes to Privacy Policy
-We may update this privacy policy from time to time. Any changes will be reflected in the "Last Updated" date at the top of this policy.
+7. Children's Privacy
+Our extension does not collect any personal information from any users, including children under 13 years of age.
 
-8. Contact Information
-For any questions or concerns about this privacy policy or our data practices, please contact us at [Your Contact Information].
+8. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Any changes will be reflected with an updated date at the top of this policy.
 
-9. Compliance
-This extension is designed with privacy as its core principle and complies with major data protection regulations including GDPR and CCPA.
+9. Contact Information
+For questions or concerns about this privacy policy, please contact:
+[Your Contact Information]
+
+10. Compliance
+This extension is designed with privacy as its core principle and complies with major privacy regulations including GDPR and CCPA.
