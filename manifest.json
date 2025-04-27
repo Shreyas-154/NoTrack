@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Privacy Guardian",
+  "name": "NoTrack",
   "version": "1.0",
   "description": "Protects your privacy by detecting trackers and warning about insecure websites",
   "permissions": [
